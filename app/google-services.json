@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "519077927301",
+    "firebase_url": "https://cursoandroidfirebase-d0266.firebaseio.com",
+    "project_id": "cursoandroidfirebase-d0266",
+    "storage_bucket": "cursoandroidfirebase-d0266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519077927301:android:f2db10e7029d9fe9",
+        "android_client_info": {
+          "package_name": "com.example.menudecomida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519077927301-2ac1pjkgqsmsqocj7brgver0ffbktofl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.menudecomida",
+            "certificate_hash": "d9526239cd2d0093def3cbb0da65ae110f3217f2"
+          }
+        },
+        {
+          "client_id": "519077927301-ssq1s7d5q98033dhu5kii3s8lum4mpvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU2Osom4tn83XDFLODFoNwJQaXG815vj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519077927301-ssq1s7d5q98033dhu5kii3s8lum4mpvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
